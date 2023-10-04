@@ -14,9 +14,12 @@ Tutorial ➔ Soon
 
 ## Samsung
 - ### Galaxy Buds 2 Pro
+**Advertising Data**<br>
 16-bit Company Identifier ➔ ```0075```<br>
-Raw-Data ➔ ```42098102141503210109AB0C0146063CDD0A00000000A700```
-
+Raw-Data ➔ ```42098102141503210109AB0C0146063CDD0A00000000A700``` <br>
+**Scan Response Data** <br>
+16-bit Company Identifier ➔ ```0075```<br>
+Raw-Data ➔ ```00C3A3D7B11740526464000104```
 
 ## Apple
 
