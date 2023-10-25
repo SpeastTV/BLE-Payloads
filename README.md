@@ -1,4 +1,4 @@
-# BLE-Payloads
+# Bluetooth® Low Energy - Payloads
 
 > [!IMPORTANT]
 > Disclaimer: Education Purpose Only
@@ -11,58 +11,56 @@ You can install "nRF Connect" on Android to spoof the devices.<br>
 Playstore (Android): [nRF Connect Android](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=de&gl=US)<br>
 Tutorial ➔ Soon
 
-## Device Overview
+## 📱 Devices Overview
 <details>
 <summary>Samsung 🤖</summary>
-<br>
 
-- [Samsung](#samsung)
+_➔ The popup only appears on Samsung & Android devices_
+
   - [Galaxy Buds 2 Pro](#galaxy-buds-2-pro)
 
 </details>
 
 <details>
 <summary>Android 👾</summary>
-<br>
 
-_The PopUp only appears on Android_
-- [Android](#android)
-  - [Pixel Buds](#pixel-buds)
-  - [Google Pixel Buds](#google-pixel-buds)
-  - [JBL Flip 6](#jbl-flip-6)
-  - [JBL Buds Pro](#jbl-buds-pro)
-  - [JBL Live 300TWS](#jbl-live-300tws)
-  - [Sony XM5](#sony-xm5)
-  - [Bose NC 700](#bose-nc-700)
-  - [Bose QuietComfort 35 II](#bose-quietcomfort-35-ii)
-  - [Razer Hammerhead TWS](#razer-hammerhead-tws)
-  - [LG HBS-835S](#lg-hbs-835s)
+_➔ The popup only appears on Android devices_
+
+- [Pixel Buds](#pixel-buds)
+- [Google Pixel Buds](#google-pixel-buds)
+- [JBL Flip 6](#jbl-flip-6)
+- [JBL Buds Pro](#jbl-buds-pro)
+- [JBL Live 300TWS](#jbl-live-300tws)
+- [Sony XM5](#sony-xm5)
+- [Bose NC 700](#bose-nc-700)
+- [Bose QuietComfort 35 II](#bose-quietcomfort-35-ii)
+- [Razer Hammerhead TWS](#razer-hammerhead-tws)
+- [LG HBS-835S](#lg-hbs-835s)
 
 </details>
 
 <details>
 <summary>Apple 🍎</summary>
-<br>
 
-_The PopUp only appears on Apple_
-- [Apple](#apple)
-  - [Airpods](#airpods)
-  - [Airpods Pro](#airpods-pro)
-  - [Airpods Max](#airpods-max)
-  - [Airpods 2](#airpods-2)
-  - [Airpods 3](#airpods-3)
-  - [Airpods Pro 2](#airpods-pro-2)
-  - [Number Setup](#number-setup)
-  - [Apple TV Pair](#apple-tv-pair)
-  - [Apple TV Setup](#apple-tv-setup)
-  - [Apple TV Configure](#apple-tv-configure)
-  - [Homepod Setup](#homepod-setup)
+_➔ The popup only appears on Apple devices_
+
+- [Airpods](#airpods)
+- [Airpods Pro](#airpods-pro)
+- [Airpods Max](#airpods-max)
+- [Airpods 2](#airpods-2)
+- [Airpods 3](#airpods-3)
+- [Airpods Pro 2](#airpods-pro-2)
+- [Number Setup](#number-setup)
+- [Apple TV Pair](#apple-tv-pair)
+- [Apple TV Setup](#apple-tv-setup)
+- [Apple TV Configure](#apple-tv-configure)
+- [Homepod Setup](#homepod-setup)
 
 </details>
 
 ---
 
-## Samsung
+## 🤖 Samsung
 - ### Galaxy Buds 2 Pro
 - **Advertising Data**<br>
   - Manufacturer Data
@@ -75,7 +73,7 @@ _The PopUp only appears on Apple_
 
 ---
 
-## Android
+## 👾 Android
 - ### Pixel Buds
 **Advertising data**<br>
 1. Service DATA:
@@ -176,7 +174,7 @@ _The PopUp only appears on Apple_
 
 ---
 
-## Apple
+## 🍎 Apple
 - ### Airpods
 **Advertising data**<br>
 - Manufacturer Data
