@@ -64,115 +64,115 @@ _The PopUp only appears on Apple_
 
 ## Samsung
 - ### Galaxy Buds 2 Pro
-### **Advertising Data**<br>
-- Manufacturer Data
-  - 16-bit Company Identifier ➔ ```0075```<br>
-  - Raw-Data ➔ ```42098102141503210109AB0C0146063CDD0A00000000A700``` <br>
-### **Scan Response Data** <br>
-- Manufacturer Data
-  - 16-bit Company Identifier ➔ ```0075```<br>
-  - Raw-Data ➔ ```00C3A3D7B11740526464000104```
+- **Advertising Data**<br>
+  - Manufacturer Data
+    - 16-bit Company Identifier ➔ ```0075```<br>
+    - Raw-Data ➔ ```42098102141503210109AB0C0146063CDD0A00000000A700``` <br>
+- **Scan Response Data** <br>
+  - Manufacturer Data
+    - 16-bit Company Identifier ➔ ```0075```<br>
+    - Raw-Data ➔ ```00C3A3D7B11740526464000104```
 
 ---
 
 ## Android
 - ### Pixel Buds
 **Advertising data**<br>
-1. Service Data: 
-   - UUID: ```FE2C```
-   - DATA: ```92BBBD```
+1. Service DATA:
+   - UUID ➔ ```FE2C```
+   - DATA ➔ ```92BBBD```
 2. Tx Power Level
-3. Service UUID: ```FE2C```
+3. Service UUID ➔ ```FE2C```
 
 ---
 
 - ### Google Pixel Buds
 **Advertising data**<br>
-1. Service Data: 
-   - UUID: ```FE2C```
-   - DATA: ```000006```
+1. Service DATA:
+   - UUID ➔ ```FE2C```
+   - DATA ➔ ```000006```
 2. Tx Power Level
-3. Service UUID: ```FE2C```
+3. Service UUID ➔ ```FE2C```
 
 ---
 
 - ### JBL Flip 6
 **Advertising data**<br>
-1. Service Data: 
-   - UUID: ```FE2C```
-   - DATA: ```821F66```
+1. Service DATA:
+   - UUID ➔ ```FE2C```
+   - DATA ➔ ```821F66```
 2. Tx Power Level
-3. Service UUID: ```FE2C```
+3. Service UUID ➔ ```FE2C```
 
 ---
 
 - ### JBL Buds Pro
 **Advertising data**<br>
-1. Service Data: 
-   - UUID: ```FE2C```
-   - DATA: ```F52494```
+1. Service DATA:
+   - UUID ➔ ```FE2C```
+   - DATA ➔ ```F52494```
 2. Tx Power Level
-3. Service UUID: ```FE2C```
+3. Service UUID ➔ ```FE2C```
 
 ---
 
 - ### JBL Live 300TWS
 **Advertising data**<br>
-1. Service Data: 
-   - UUID: ```FE2C```
-   - DATA: ```718FA4```
+1. Service DATA:
+   - UUID ➔ ```FE2C```
+   - DATA ➔ ```718FA4```
 2. Tx Power Level
-3. Service UUID: ```FE2C```
+3. Service UUID ➔ ```FE2C```
 
 ---
 
 - ### Sony XM5
 **Advertising data**<br>
-1. Service Data: 
-   - UUID: ```FE2C```
-   - DATA: ```D446A7```
+1. Service DATA:
+   - UUID ➔ ```FE2C```
+   - DATA ➔ ```D446A7```
 2. Tx Power Level
-3. Service UUID: ```FE2C```
+3. Service UUID ➔ ```FE2C```
 
 ---
 
 - ### Bose NC 700
 **Advertising data**<br>
-1. Service Data: 
-   - UUID: ```FE2C```
-   - DATA: ```CD8256```
+1. Service DATA:
+   - UUID ➔ ```FE2C```
+   - DATA ➔ ```CD8256```
 2. Tx Power Level
-3. Service UUID: ```FE2C```
+3. Service UUID ➔ ```FE2C```
 
 ---
 
 - ### Bose QuietComfort 35 II
 **Advertising data**<br>
-1. Service Data: 
-   - UUID: ```FE2C```
-   - DATA: ```0000F0```
+1. Service DATA:
+   - UUID ➔ ```FE2C```
+   - DATA ➔ ```0000F0```
 2. Tx Power Level
-3. Service UUID: ```FE2C```
+3. Service UUID ➔ ```FE2C```
 
 ---
 
 - ### Razer Hammerhead TWS
 **Advertising data**<br>
-1. Service Data: 
-   - UUID: ```FE2C```
-   - DATA: ```0E30C3```
+1. Service DATA:
+   - UUID ➔ ```FE2C```
+   - DATA ➔ ```0E30C3```
 2. Tx Power Level
-3. Service UUID: ```FE2C```
+3. Service UUID ➔ ```FE2C```
 
 ---
 
 - ### LG HBS-835S
 **Advertising data**<br>
-1. Service Data: 
+1. Service DATA:
    - UUID ➔ ```FE2C```
    - DATA ➔ ```0003F0```
 2. Tx Power Level
-3. Service UUID: ```FE2C```
+3. Service UUID ➔ ```FE2C```
 
 ---
 
