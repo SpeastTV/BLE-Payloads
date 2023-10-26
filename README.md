@@ -9,7 +9,7 @@
 **How can I use the codes?** <br>
 You can install "nRF Connect" on Android to spoof the devices.<br>
 Playstore (Android): [nRF Connect Android](https://play.google.com/store/apps/details?id=no.nordicsemi.android.mcp&hl=de&gl=US)<br>
-Tutorial ➔ Soon
+Tutorials ➔ [Apple Devices](https://youtu.be/uFOcBQjsr7w) - More Soon
 
 ## 📱 Devices Overview
 <details>
