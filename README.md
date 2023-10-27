@@ -58,6 +58,15 @@ _➔ The popup only appears on Apple devices_
 
 </details>
 
+<details>
+<summary>Windows 🪟</summary>
+
+_➔ The popup only appears on Windows devices that have Swift Pair enabled_
+
+  - [Custom Windows popup](#custom-windows-popup)
+
+</details>
+
 ---
 
 ## 🤖 Samsung
@@ -260,3 +269,16 @@ _➔ The popup only appears on Apple devices_
 - Manufacturer Data
   - 16-bit Company Identifier ➔ ```004C```<br>
   - Raw-Data ➔ ```04042a0000000f05c10b604c950000100000000000```
+
+---
+
+## 🪟 Windows 10/11
+- ### Custom Windows Popup
+- **Advertising Data**<br>
+  - Manufacturer Data
+    - 16-bit Company Identifier ➔ ```0006```<br>
+    - Raw-Data ➔ ```030008[your custom text in HEX]```<br><br>
+Example Raw-Data: ```03000848656C6C6F20576F726C64```<br>
+Tool for custom Text ➔ [Text to HEX Converter](https://www.rapidtables.com/convert/number/ascii-to-hex.html)
+
+    
