@@ -61,7 +61,7 @@ _➔ The popup only appears on Apple devices_
 <details>
 <summary>Windows 🪟</summary>
 
-_➔ The popup only appears on Windows devices which have Swift Pair enabled_
+_➔ The popup only appears on Windows devices that have Swift Pair enabled_
 
   - [Customize popup](#windows-devices)
 
