@@ -63,7 +63,7 @@ _➔ The popup only appears on Apple devices_
 
 _➔ The popup only appears on Windows devices that have Swift Pair enabled_
 
-  - [Customize popup](#windows-devices)
+  - [Custom Windows popup](#custom-windows-popup)
 
 </details>
 
@@ -272,9 +272,13 @@ _➔ The popup only appears on Windows devices that have Swift Pair enabled_
 
 ---
 
-## 🪟 Windows
-- ### Windows devices
+## 🪟 Windows 10/11
+- ### Custom Windows Popup
 - **Advertising Data**<br>
   - Manufacturer Data
     - 16-bit Company Identifier ➔ ```0006```<br>
-    - Raw-Data ➔ ```030008[your text in HEX]``` 
+    - Raw-Data ➔ ```030008[your custom text in HEX]```<br><br>
+Example Raw-Data: ```03000848656C6C6F20576F726C64```<br>
+Tool for custom Text ➔ [Text to HEX Converter](https://www.rapidtables.com/convert/number/ascii-to-hex.html)
+
+    
