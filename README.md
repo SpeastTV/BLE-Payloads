@@ -58,6 +58,15 @@ _➔ The popup only appears on Apple devices_
 
 </details>
 
+<details>
+<summary>Windows 🪟</summary>
+
+_➔ The popup only appears on Samsung & Android devices_
+
+  - [Customize popup](#windows-devices)
+
+</details>
+
 ---
 
 ## 🤖 Samsung
@@ -260,3 +269,12 @@ _➔ The popup only appears on Apple devices_
 - Manufacturer Data
   - 16-bit Company Identifier ➔ ```004C```<br>
   - Raw-Data ➔ ```04042a0000000f05c10b604c950000100000000000```
+
+---
+
+## 🪟 Windows
+- ### Windows devices
+- **Advertising Data**<br>
+  - Manufacturer Data
+    - 16-bit Company Identifier ➔ ```0006```<br>
+    - Raw-Data ➔ ```030008[your text in ASCII]``` 
