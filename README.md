@@ -277,4 +277,4 @@ _➔ The popup only appears on Windows devices which have Swift Pair enabled_
 - **Advertising Data**<br>
   - Manufacturer Data
     - 16-bit Company Identifier ➔ ```0006```<br>
-    - Raw-Data ➔ ```030008[your text in ASCII]``` 
+    - Raw-Data ➔ ```030008[your text in HEX]``` 
